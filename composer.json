@@ -1,0 +1,24 @@
+{
+    "name": "fdsa225/toolz",
+    "type": "library",
+    "description": "some toolz for rapid development ",
+    "keywords": ["rad","php7","std","radmaster toolkit"],
+    "homepage": "https://github.com/fdsa225/toolz",
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "*fdsa225",
+            "email": "fdsa225@gmail.com",
+            "homepage": "http://fdsa225.github.com",
+            "role": "dev"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "autoload": {
+	"psr-4": {
+            "Toolz\\": "src/"
+        }
+    }
+}
