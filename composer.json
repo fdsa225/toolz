@@ -4,7 +4,7 @@
     "description": "some toolz for rapid development ",
     "keywords": ["rad","php7","std","radmaster toolkit"],
     "homepage": "https://github.com/fdsa225/toolz",
-    "license": "BSD",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "*fdsa225",
